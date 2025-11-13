@@ -1,4 +1,4 @@
 # 1st-project
 Sales CRM.
 <br>
-Author - Prashant Sharma
+Author - Prashant Sharma (owner)
